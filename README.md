@@ -1,3 +1,5 @@
+> Curated learning fork maintained by [Mudit Dholakia](https://github.com/muditdholakia). Original authorship: [microsoft/agent-academy](https://github.com/microsoft/agent-academy). See [your learning plan](CURATOR_README.md) and [security audit](CURATOR_SECURITY.md). Upstream license and copyright notices are retained.
+
 # Copilot Studio Agent Academy
 
 This repo is for hosting a three part course for people who want to build agents with Microsoft Copilot Studio.
